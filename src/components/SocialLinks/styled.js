@@ -14,7 +14,7 @@ list-style: none;
 export const SocialLinksItem = styled.li``
 
 export const SocialLinksLink = styled.a`
-color: #889a6;
+color: #8899a6;
 texxt-decoration: none;
 transition: color 0.5s;
 
