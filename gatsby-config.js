@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `My Blog`,
-    position: `Programador Backend`,
-    description: `A blog about frontend development and other cool stuff`,
+    title: `PetMatch`,
+    position: `Adote um pet feito para você`,
+    description: `Website dedicado ao match de Pais e Pets`,
     author: `@author`,
   },
   plugins: [

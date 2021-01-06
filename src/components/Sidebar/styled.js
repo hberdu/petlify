@@ -10,5 +10,5 @@ height: 100vh;
 position: fixed;
 padding: 2rem;
 text-align: center;
-width: 20rem;
+width: 16rem;
 `
