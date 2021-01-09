@@ -6,7 +6,7 @@ color: #8899a6
 display: flex;
 text-decoration: none;
 
-&:hover{
+&:hover {
     color: #1fa1f2;
 }
 `
@@ -16,17 +16,17 @@ align-items: center;
 border-bottom: 1px solid #38444d;
 display:flex;
 padding: 2rem 3rem;
-width: 100%;
+width: 92%;
 `
 
 export const PostItemTag = styled.div`
 align-items: center;
-background: ${props => props.background};
+background: ${props => props.background ? props.background: '#1fa1f2'};
 border-radius: 50%;
 color: #fff;
 display: flex;
 font-size: m1.3rem;
-font-weight: 700;
+font-weight: 500;
 justify-content: center;
 min-height: 90px;
 min-width: 90px;
