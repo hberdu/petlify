@@ -1,6 +1,6 @@
-import { createGlobalStyle } from 'styled-components'
+import {createGlobalStyle} from 'styled-components'
 
-const GlobalStyles = createGlobalStyle`
+const GlobalStyles = createGlobalStyle `
 
 
 /* http://meyerweb.com/eric/tools/css/reset/ 
