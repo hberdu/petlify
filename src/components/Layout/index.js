@@ -16,7 +16,9 @@ const Layout = ({children}) => {
             <MenuBar/>
         </S.LayoutWrapper>
     )
-} Layout.propTypes = {
+} 
+
+Layout.propTypes = {
     children: PropTypes.node.isRequired
 }
 

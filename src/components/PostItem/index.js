@@ -16,9 +16,9 @@ const PostItem = ({
         <S.PostItemWrapper>
             <S.PostItemTag background={background}>PetMatch</S.PostItemTag>
             <S.PostItemInfo>
-                <S.PostItemDate>{date}
-                    - {timeToRead}
-                    min de leitura</S.PostItemDate>
+                <S.PostItemDate>
+                    {date} - {timeToRead} min de leitura
+                </S.PostItemDate>
                 <S.PostItemTitle> {title} </S.PostItemTitle>
                 <S.PostItemDescription> {description} </S.PostItemDescription>
             </S.PostItemInfo>
